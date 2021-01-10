@@ -8,3 +8,4 @@ For more inforamtion about [Machine Learning from Professor Lee](https://www.you
 2. Regression
 3. Where does the errors come from ? Bias vs Variance
 
+Copyright @ Yanan Zhao
